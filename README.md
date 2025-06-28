@@ -1,4 +1,4 @@
-Here’s a clean and concise `README.md` for your Financial Analytics Dashboard GitHub repository, based on your uploaded assignment and without including folder structures or route details:
+
 
 ---
 
